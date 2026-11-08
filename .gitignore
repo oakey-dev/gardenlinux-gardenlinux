@@ -73,5 +73,6 @@ COMMIT
 VERSION
 edk2/
 **/*-internal.md
+*.deb
 # docs-ng build directory (created by docs/Makefile)
 /.docs-ng-build/
